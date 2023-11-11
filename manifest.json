@@ -1,0 +1,9 @@
+{
+    "name": "SAND",
+    "short_name": "SAND",
+    "description": "2D Basic Simulation",
+    "start_url": "/sand",
+    "display": "standalone",
+    "background_color": "#000000",
+    "theme_color": "#000000"
+}
